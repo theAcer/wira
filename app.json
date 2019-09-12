@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "Job application app",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "wira",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
